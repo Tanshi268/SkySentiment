@@ -1,6 +1,6 @@
-Streamlit
-Pandas
-Numpy
-Plotly
-WordCloud
-Matplotlib
+streamlit
+pandas
+numpy
+plotly
+wordcloud
+matplotlib
